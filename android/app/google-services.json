@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1057533190669",
+    "project_id": "exam-center-allocation",
+    "storage_bucket": "exam-center-allocation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057533190669:android:9ae0bf484995a8c04eab44",
+        "android_client_info": {
+          "package_name": "com.example.examcenter_management_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057533190669-np953bkesp1ft21d7pudq9f1a88edruu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmsVGZGAycV9xAOl8aIqblAfzLowkpbs0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057533190669-np953bkesp1ft21d7pudq9f1a88edruu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
